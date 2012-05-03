@@ -1,0 +1,5 @@
+Here are my childish attempts to explore Chaos by means of python and Tkinter package.
+
+fSequencing.py file holds two routines for turning functions into numeric sequences.
+ZeroOnePlotter.py holds the Plotter class which allows to bring up very simple plots. The main purpose of writing this class was to get acquainted with Tkinter.
+plots.py contains several lines of code for creating sequences and showing their graphs by means of the above routines.
